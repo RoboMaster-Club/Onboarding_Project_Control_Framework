@@ -35,5 +35,10 @@
 .\onboarding_project_control_framework\motors.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 .\onboarding_project_control_framework\motors.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 .\onboarding_project_control_framework\motors.o: ../Core/Inc/tim.h
-.\onboarding_project_control_framework\motors.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\onboarding_project_control_framework\motors.o: ../Devices/Devices.h/DR16_Remote.h
+.\onboarding_project_control_framework\motors.o: ../Core/Inc/dma.h
+.\onboarding_project_control_framework\motors.o: ../Core/Inc/usart.h
+.\onboarding_project_control_framework\motors.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\onboarding_project_control_framework\motors.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 .\onboarding_project_control_framework\motors.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\onboarding_project_control_framework\motors.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -13,6 +13,7 @@
 
 #include "gpio.h"
 #include "tim.h"
+#include "DR16_Remote.h"
 #include <string.h>
 #include <stdio.h>
 #include <stdint.h>
